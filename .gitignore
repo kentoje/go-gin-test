@@ -16,3 +16,7 @@
 
 # .idea
 .idea
+
+# env variables
+*.env
+*.development.json
